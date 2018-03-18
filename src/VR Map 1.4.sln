@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Map 1.4", "VR Map 1.4.csproj", "{94C0987C-E4AD-FB43-A038-6A976EF38023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Map 1.4.Editor", "VR Map 1.4.Editor.csproj", "{EFAE6360-C8FE-E45E-83B2-AA8433AB557D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C0987C-E4AD-FB43-A038-6A976EF38023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C0987C-E4AD-FB43-A038-6A976EF38023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C0987C-E4AD-FB43-A038-6A976EF38023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C0987C-E4AD-FB43-A038-6A976EF38023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAE6360-C8FE-E45E-83B2-AA8433AB557D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAE6360-C8FE-E45E-83B2-AA8433AB557D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAE6360-C8FE-E45E-83B2-AA8433AB557D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAE6360-C8FE-E45E-83B2-AA8433AB557D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
