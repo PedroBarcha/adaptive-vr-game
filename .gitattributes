@@ -1,0 +1,2 @@
+adaptive-vr.apk filter=lfs diff=lfs merge=lfs -text
+src/Library/PlayerDataCache/Data/sharedassets1.assets filter=lfs diff=lfs merge=lfs -text
